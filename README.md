@@ -9,3 +9,8 @@
 ![изображение](https://github.com/AndrewDOrlov/cybersecurity_bot/assets/116432159/4b2340da-cdad-417a-95ac-1fa50c6a70e9)
 ![изображение](https://github.com/AndrewDOrlov/cybersecurity_bot/assets/116432159/091ed25d-ce31-478d-adb2-be9a97b72918)
 ![изображение](https://github.com/AndrewDOrlov/cybersecurity_bot/assets/116432159/5212d207-256c-48b5-a7d5-d38012297d28)
+
+#### Начало работы:
+1. Склонируйте репозиторий
+2. в файле .env в соответствующие поля вставьте токен вашего телеграм-бота и токен wandb
+3. запустите и настройте по необходимости файлы .ipynb
